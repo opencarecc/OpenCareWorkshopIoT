@@ -19,6 +19,7 @@ It also works with the combination of
 * Arduino TinkerKit Shield
 * _Ethernet_ library
 * _Tinkerkit_ library
+
 (Please be sure to use the sketches in [this folder](https://github.com/opencarecc/opencareWorkshopIoT/tree/master/sketches_w_TinkerLib) if you are using this hardware) 
 
 ## Software
